@@ -1,0 +1,29 @@
+name: gpay
+description: Google Pay Clone.
+
+
+version: 1.0.0+1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/icons/
