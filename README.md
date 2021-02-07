@@ -2,6 +2,8 @@
 
 A Gpay Clone app made in Flutter.
 
+![alt text](https://github.com/Piyushhhhh/Gpay_flutter/blob/master/assets/images/demoImage.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
