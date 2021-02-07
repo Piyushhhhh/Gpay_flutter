@@ -1,6 +1,6 @@
 # gpay_flutter
 
-A new Flutter application.
+A Gpay Clone app made in Flutter.
 
 ## Getting Started
 
